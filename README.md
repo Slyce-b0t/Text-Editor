@@ -3,7 +3,7 @@
 
 ## Overview
 Simple text editor that only consist of writing, cuting, coping and pasting text. Used tkinter for simple user interface. For creating cut and copy functions used stack logic(last in first out). Now let's look out how functions code works(not the tkinter part).
-<hr>
+
 
 About the 'INSERT' imported from tkinter we will talk about later, first, created value named data. Date will store cutted or copied data and as you guess when we execute paste function it will search a text inside this value
 
